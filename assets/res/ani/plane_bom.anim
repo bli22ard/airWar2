@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "plane_bom",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.26666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "8a165730-5795-41dd-b316-aad0b9890e2c"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "841896c9-1e88-49b7-a9ed-92c7ee898b07"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "e04500da-3031-43fc-9a80-a8532b4606d4"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "05952abb-464d-46a0-a171-edff700ec22a"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
